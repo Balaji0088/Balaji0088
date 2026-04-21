@@ -1,6 +1,7 @@
 Hi, I'm Balaji  👋  
 Aspiring Data Analyst 
+I Currently Studying 3rd Year B.Tech CSE(DS) 
 
-💡 Skills: Python | SQL | Excel  
-📊 Currently Learning: Power BI, React,Tableau
+💡 Skill Set: Python | SQL | Excel | Data Visualization   
+📊 Currently Learning: Power BI, React, Tableau
 🎯 Goal: To build real-world projects  
