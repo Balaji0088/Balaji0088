@@ -11,6 +11,8 @@
 - ⚡ Fun fact **✏️ Drawing lover**
 
 ---
+<img width="626" height="442" alt="image" src="https://github.com/user-attachments/assets/21729bf8-a873-408f-87aa-ebedcd3dd2c1" />
+
 
 <table>
 <tr>
