@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Tools and Data Visualization**
 - 💬 Ask me about **Data Analytics, Python, SQL**
 - 📫 How to reach me **balajivallepu08@gmail.com**
+- 🎯 Looking for internship opportunities to gain hands-on experience
 - ⚡ Fun fact **✏️I love Drawing**
 
 ---
